@@ -1,16 +1,19 @@
-🔧 Test Automation Framework
+🔧 Test Automation Framework:
 
-This project is a dynamic, scalable, and maintainable test automation framework designed for both Web UI and API testing.
+This project is a dynamic, scalable, and maintainable test automation framework,
+designed for both Web UI and API testing.
 Built with best practices in mind, it offers flexibility, reusability, and ease of configuration,
 making it ideal for cross-environment and cross-browser testing.
 
 ✅ Key Features
 
+1-Modular & Maintainable Design
 
-📁 Modular & Maintainable Design
-Built using the Page Object Model (POM) along with the Builder design pattern for clarity, reusability, and separation of concerns.
+2-Built using the Page Object Model (POM) along with the Builder design pattern for clarity, reusability, and separation of concerns.
 
-Fully supports multi-browser execution (Chrome, Firefox, Edge, etc.) via configuration.
+3-Fully supports multi-browser execution (Chrome, Firefox, Edge, etc.) via configuration.
+
+4-Supports Parallel execution from test.xml (up to 5 threads), with usage of threadlocals to prevent intercations between drivers calls
 
 🧪 API Testing Support
 Integrated REST-assured library for seamless API testing.
