@@ -1,0 +1,15 @@
+API/requests/GetUser.class
+GUI/amazon/Factory/DriverFactory.class
+GUI/amazon/Base/PageBase.class
+GUI/amazon/Base/TestBase.class
+API/responseModels/CreateUser_ResponseMapper.class
+API/responseModels/getUser_ResponseMapper/Data.class
+API/HelperClasses/APIPropertiesReader.class
+API/requestModels/UpdateUser_RequestMapper.class
+API/HelperClasses/API_Endpoints.class
+API/responseModels/getUser_ResponseMapper/GetUser_ResModel.class
+API/responseModels/getUser_ResponseMapper/Support.class
+API/requestModels/CreateUser_RequestMapper.class
+API/requests/CreateUser.class
+API/responseModels/UpdateUser_ResponseMapper.class
+API/requests/UpdateUser.class
