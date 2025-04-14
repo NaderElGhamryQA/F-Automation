@@ -1,1 +1,0 @@
-{"uuid":"57e5148a-0df7-44c9-8e2b-ffa2f5e630b9","name":"GUI.amazon.Base.TestBase.setUp","children":["feff2f95-77d2-452f-b3ba-cc9ebc9e86a5"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1744550963478,"stop":1744550965938}],"afters":[],"start":1744550963478,"stop":1744550965938}
