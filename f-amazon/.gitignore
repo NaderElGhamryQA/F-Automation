@@ -1,0 +1,14 @@
+# Ignore build output
+/target/
+!.gitignore
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db

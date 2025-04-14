@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Foodics Amazon Test Suite" parallel="tests" thread-count="2">
+
+    <!-- GUI Test Cases -->
+    <test name="GUI Test Cases">
+        <classes>
+            <class name="GUI_Test_Cases.CheckOutTest"/>
+            <class name="GUI_Test_Cases.HomePageTest"/>
+            <class name="GUI_Test_Cases.LoginTest"/>
+            <class name="GUI_Test_Cases.VideoGamesTest"/>
+        </classes>
+    </test>
+
+    <!-- API Test Cases -->
+    <test name="API Test Cases">
+        <classes>
+            <class name="API_Test_Cases.api.CreateUserTest"/>
+            <class name="API_Test_Cases.api.GetUserTest"/>
+            <class name="API_Test_Cases.api.UpdateUserTest"/>
+        </classes>
+    </test>
+
+</suite>
